@@ -1,0 +1,10 @@
+site_name: 风险投资
+site_url: https://cdqzyehan.github.io/startup-investment/
+# theme:
+#   name: material
+#   language: zh
+
+nav:
+  - 主页: index.md
+  - 风险投资基础:
+    - 基本术语: 风险投资基础/术语.md
